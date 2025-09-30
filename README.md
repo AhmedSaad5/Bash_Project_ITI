@@ -1,4 +1,4 @@
-ITI Data Visualisation Track - Bash Shell Script Project
+ITI Data Visualisation Track 2025 - Bash Shell Script Project
 
 The project aims to develop a DBMS that will enable users to store and retrieve data from a Hard Disk.
 
