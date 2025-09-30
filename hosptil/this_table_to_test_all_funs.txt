@@ -1,0 +1,16 @@
+Primary Key: t_id | Columns: fname lname salary | Data Types: STRING STRING FLOAT
+1,child1,parent1,10000
+2,child2,parent2,10000
+3,child3,parent3,10000
+4,child4,parent4,10000
+5,child5,parent5,10000
+6,child6,parent6,10000
+7,child7,parent7,10000
+20,child20,parent20,6000
+9,child9,parent9,10000
+10,child10,parent1,10000
+11,child11,parent7,10000
+12,child12,parent8,10000
+13,child13,parent9,10000
+15,child20,parent20,10000
+15,child15,parent1,10000

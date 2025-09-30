@@ -1,0 +1,2 @@
+Primary Key: id | Columns: fname lname salary | Data Types: string string float
+10,selim,ahmed,1000000000

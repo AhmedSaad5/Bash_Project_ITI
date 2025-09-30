@@ -1,0 +1,13 @@
+Primary Key: doc_id | Columns: fname lname salary | Data Types: STRING STRING FLOAT
+1,ahmed,saad,15000
+2,mena,nagy,15000
+3,Selim,ahmed,15000
+4,Morad,ahmed,15000
+5,Yusuf,Mohamed,15000
+6,Salma,nagy,15000
+7,Shahd,Mohamed,15000
+8,Tariq,nagy,15000
+9,Aya,saad,15000
+10,Farida,ahmed,15000
+11,Sayed,saad,15000
+12,Farida,Ahmed,20000

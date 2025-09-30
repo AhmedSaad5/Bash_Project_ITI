@@ -1,0 +1,2 @@
+Primary Key: id | Columns: fname lname age | Data Types: STRING STRING INT
+2,Selim,ahmed,10

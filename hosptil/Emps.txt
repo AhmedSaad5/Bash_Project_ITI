@@ -1,0 +1,11 @@
+Primary Key: id | Columns: fname lname salary | Data Types: STRING STRING FLOAT
+1,selim,ahmed,9800
+3,Yusuf,ahmed,2500
+4,Morad,ahmed,2400
+5,Maha,ahmed,4200
+6,Fady,ahmed,6300
+7,Aya,ahmed,4200
+12,mena,nagy,20000
+9,Mohamed,ahmed,6100
+10,rofida,ahmed,30000
+11,Mahmoud,Ahmed,3652

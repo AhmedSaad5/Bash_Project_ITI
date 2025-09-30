@@ -1,0 +1,1 @@
+Primary Key: employee_id | Columns: l_name salary age | Data Types: STRING FLOAT INT
